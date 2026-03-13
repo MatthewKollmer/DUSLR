@@ -4,7 +4,7 @@
   <img src="https://github.com/MatthewKollmer/us_lynching_victims/blob/162d745fafe7398c7627f6b887f976084d426459/figure_4_lynch_locations.png" width="700" height="450">
 </p>
 </div>
-<p align="center">Map of US Lynching Locations in the Dataset</p>
+<p align="center">Map of US Lynching Locations in DUSLR</p>
 
 This project is one subproject in the larger [Virality of Racial Terror Project (VRT)](https://www.racialviolencearchive.com/vrt-project.html), a grant-funded initiative that applies computational methods to identify and study the circulation of racial violence reports in the United States between 1865 and 1921. In that regard, this subproject specifically relies on existing datasets of lynchings from the period. It builds off a century's worth of work by journalists, activists, and researchers–from Ida B. Wells-Barnett, Monroe Work, the NAACP, and many others–who collectively documented instances of lynchings and racial violence over many decades. Thanks to this rich tradition of activism through research, we have data that provides victim names, places, and dates, and in turn, a much better understanding of the painful legacy of racial violence in the United States.
 
